@@ -1,4 +1,6 @@
 
+.ipynb_checkpoints
 asteroid_taxonomy/.DS_Store
 asteroid_taxonomy/data/lvl0/smass2data.tar.gz
-*.[2]
+data*
+.DS_Store
