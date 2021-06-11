@@ -1,0 +1,21 @@
+# Some standard stuff
+certifi
+requests
+pytest
+
+# Interactive
+ipython
+jupyterlab
+ipywidgets
+tqdm
+
+# Data Wrangling
+numpy
+pandas
+
+# Visualization
+matplotlib
+
+# Machine Learning
+scikit-learn
+tensorflow
