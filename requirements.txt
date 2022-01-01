@@ -1,7 +1,8 @@
 # Some standard stuff
 certifi
-requests
 pytest
+requests
+Qdm
 
 # Interactive
 ipython
@@ -15,6 +16,7 @@ pandas
 
 # Visualization
 matplotlib
+imageio
 
 # Machine Learning
 scikit-learn
